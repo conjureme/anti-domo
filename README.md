@@ -9,13 +9,13 @@ this bot automatically bans anyone that uses domoAI in your server.
 - 'use external apps' permission must be toggled on. this is the only way the bot will function and the only way for you to tell if someone is using domoAI. if this is off, messages will be private between the user and app.
 - the bot must have a hoisted role- that is, one above other member roles.
 - discord please fix this... allow server owners to completely disable external apps 🥺
+- **update 5/25/2025**: currently waiting for discord to verify the bot. it cannot be added to anymore servers until then
 
 ## what it does
 
 - checks all messages for domoAI output
 - instantly deletes domo output
 - automatically bans the user who used the command
-- hopefully bot shouldn't crash anytime...
 
 ## why this exists
 
@@ -76,8 +76,6 @@ the bot listens for messages from domoAI (user ID: 1153984868804468756) and:
   3. message content patterns
 
 silently bans user with given reason.
-
-if the bot lacks permissions, it SHOULD log the error and hopefully not crash...
 
 ## contributing
 
