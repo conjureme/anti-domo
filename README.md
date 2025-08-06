@@ -7,6 +7,7 @@ this bot automatically bans anyone that uses domoAI in your server.
 ## PLEASE NOTE:
 
 - 'use external apps' permission must be toggled on. this is the only way the bot will function and the only way for you to tell if someone is using domoAI. if this is off, messages will be private between the user and app.
+- BE WARNED: this permission is not recommended to have on—anyone will be able to spam with external bots among other things. it's a real shame... </3
 - the bot must have a hoisted role- that is, one above other member roles.
 - discord please fix this... allow server owners to completely disable external apps 🥺
 - **update 5/25/2025**: currently waiting for discord to verify the bot. it cannot be added to anymore servers until then
